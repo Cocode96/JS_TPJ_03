@@ -1,7 +1,7 @@
 #include "stdafx.h"
 #include "Stage03.h"
 
-
+// 응애 이것은 석호의 스테이지
 CStage03::CStage03()
 {
 }
